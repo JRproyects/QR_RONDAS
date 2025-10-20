@@ -1,0 +1,16 @@
+{
+  "name": "create-ronda-qr",
+  "description": "App QR rondas",
+  "version": "0.0.0",
+  "author": "JRproyects <rj45redd@gmail.com>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0",
+    "int": "^0.2.0"
+  },
+  "license": "MIT"
+}
